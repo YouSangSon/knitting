@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="털실 뭉치">
+  <rect width="512" height="512" rx="112" fill="#fdeef1"/>
+  <circle cx="256" cy="256" r="150" fill="#c65f7b"/>
+  <g fill="none" stroke="#fbe2e8" stroke-width="14" stroke-linecap="round" opacity="0.9">
+    <path d="M172 158c58 34 96 96 108 190"/>
+    <path d="M226 128c46 44 70 108 66 194"/>
+    <path d="M300 132c22 60 20 128-14 200"/>
+    <path d="M356 176c2 62-22 122-72 168"/>
+    <path d="M136 220c66 8 124 44 158 108"/>
+    <path d="M116 292c70-6 132 20 176 78"/>
+  </g>
+  <path d="M356 300c40 6 74 30 74 64 0 26-22 44-52 44" fill="none" stroke="#c65f7b" stroke-width="16" stroke-linecap="round"/>
+</svg>

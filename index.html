@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'none'; object-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' data:; worker-src 'self'; connect-src 'self'; manifest-src 'self'; form-action 'self'">
+    <meta name="theme-color" content="#c65f7b">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="아기 뜨개">
+    <meta name="description" content="아기 코바늘 모자 도안을 폰에서 편하게 보고 단수를 세는 앱">
+    <link rel="manifest" href="./manifest.webmanifest">
+    <link rel="icon" href="./icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="./icon.svg">
+    <title>아기 뜨개 도안</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <header class="app-header">
+      <a class="brand" href="#/" aria-label="처음 화면(도안 목록)">
+        <span class="brand-mark" aria-hidden="true">🧶</span>
+        <span>아기 뜨개</span>
+      </a>
+    </header>
+    <main id="app" tabindex="-1">
+      <p class="loading">도안을 불러오는 중…</p>
+    </main>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "name": "아기 뜨개 도안",
+  "short_name": "아기 뜨개",
+  "description": "아기 코바늘 모자 도안을 폰에서 편하게 보고 단수를 세는 앱",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf5f1",
+  "theme_color": "#c65f7b",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
