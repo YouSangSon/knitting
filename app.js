@@ -152,8 +152,8 @@ function renderPattern(id) {
     </section>
 
     <section class="block">
-      <h2>완성 사진 · 원문 도안</h2>
-      <p class="note">링크를 열면 완성된 모자 사진과 원문 도안을 볼 수 있어요.</p>
+      <h2>완성 사진 (원문 도안)</h2>
+      <p class="note">완성된 모자 사진을 볼 수 있어요. 원문 글은 영어라, 만드는 법은 위 "영상으로 배우기"를 보시는 게 편해요.</p>
       <ul class="sources">${sources}</ul>
     </section>
 

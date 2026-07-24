@@ -17,7 +17,7 @@ export const PATTERNS = [
     summary:
       "정수리부터 원형으로 떠 내려가는 가장 기본 모자. 이거 하나만 익히면 방울 모자·곰돌이 모자는 전부 응용이에요.",
     videos: [
-      { title: "코바늘 아기 모자 뜨기 영상 모아보기", url: "https://www.youtube.com/results?search_query=코바늘+아기모자+뜨기+초보" },
+      { title: "초보용 코바늘 비니 모자 뜨기 (영상)", url: "https://www.youtube.com/watch?v=ifiwfKm3r0c" },
     ],
     materials: [
       "중세사(worsted, 4번) 아크릴 또는 면사 약 60g",
@@ -72,7 +72,8 @@ export const PATTERNS = [
     summary:
       "기본 비니와 똑같이 뜨고 정수리에 큼직한 방울만 달면 끝. 방울 하나로 사진이 확 예뻐져요.",
     videos: [
-      { title: "코바늘 방울(폼폼) 만드는 영상 모아보기", url: "https://www.youtube.com/results?search_query=코바늘+방울+폼폼+만들기" },
+      { title: "초보용 코바늘 비니 모자 뜨기 (몸통 참고)", url: "https://www.youtube.com/watch?v=ifiwfKm3r0c" },
+      { title: "방울(폼폼) 만들어 모자에 다는 법 (영상)", url: "https://www.youtube.com/watch?v=SPfnUbQdS4E" },
     ],
     materials: [
       "중세사(worsted, 4번) 약 60g + 방울용 자투리 실",
@@ -136,7 +137,7 @@ export const PATTERNS = [
     summary:
       "기본 비니에 동그란 귀 두 개만 달면 곰돌이 완성. 몸통은 '기본 아기 비니'와 똑같이 뜨고 귀만 따로 만들어 꿰매요.",
     videos: [
-      { title: "코바늘 곰돌이 모자 뜨기 영상 모아보기", url: "https://www.youtube.com/results?search_query=코바늘+곰돌이+모자+뜨기" },
+      { title: "코바늘 곰돌이 아기 모자 만들기 (영상)", url: "https://www.youtube.com/watch?v=0iSe34jwl5o" },
     ],
     materials: [
       "중세사(worsted, 4번) 약 60g (귀 색을 다르게 해도 귀여워요)",
@@ -199,7 +200,7 @@ export const PATTERNS = [
     summary:
       "곰돌이 모자와 몸통은 똑같고, 귀만 길게 늘어지는 토끼 귀로. 살짝 접히며 흔들리는 귀가 포인트예요.",
     videos: [
-      { title: "코바늘 토끼 모자 뜨기 영상 모아보기", url: "https://www.youtube.com/results?search_query=코바늘+토끼+모자+뜨기" },
+      { title: "코바늘 곰돌이 아기 모자 (귀만 길게 뜨면 토끼예요)", url: "https://www.youtube.com/watch?v=0iSe34jwl5o" },
     ],
     materials: [
       "중세사(worsted, 4번) 약 60g (귀 안쪽을 연분홍으로 하면 더 귀여워요)",
@@ -256,9 +257,7 @@ export const PATTERNS = [
 
 // 기초 손 모양 영상(모든 도안 공통). 유튜브 검색 링크라 항상 최신 영상이 열립니다.
 export const BASICS = [
-  { title: "코바늘 잡는 법·사슬뜨기 기초", url: "https://www.youtube.com/results?search_query=코바늘+기초+사슬뜨기+잡는법" },
-  { title: "매직링 만들기", url: "https://www.youtube.com/results?search_query=코바늘+매직링+만드는법" },
-  { title: "짧은뜨기 (sc)", url: "https://www.youtube.com/results?search_query=코바늘+짧은뜨기+하는법" },
-  { title: "한길긴뜨기 (dc)", url: "https://www.youtube.com/results?search_query=코바늘+한길긴뜨기+하는법" },
-  { title: "늘려뜨기(한 코에 2코)", url: "https://www.youtube.com/results?search_query=코바늘+늘려뜨기" },
+  { title: "코바늘 기초 5가지 — 사슬·짧은뜨기·긴뜨기·한길긴뜨기·빼뜨기", url: "https://www.youtube.com/watch?v=Iw1kTFOil4w" },
+  { title: "매직링 만들기 (가장 쉽고 깔끔하게)", url: "https://www.youtube.com/watch?v=i96pQLJrz98" },
+  { title: "원형뜨기·원형 코 늘리기 (정수리 원 만들기)", url: "https://www.youtube.com/watch?v=oJNQ-6_FBy8" },
 ];

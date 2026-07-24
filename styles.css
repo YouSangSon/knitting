@@ -271,3 +271,21 @@ h2 {
 @media (prefers-reduced-motion: reduce) {
   * { scroll-behavior: auto !important; transition-duration: 0.01ms !important; }
 }
+
+/* --- 가독성 튜닝 --- */
+:root { --muted: #6b555a; }               /* 흐린 회색 톤을 진하게(대비↑) */
+body { font-size: 17.5px; line-height: 1.72; }
+.lead { color: #4a373b; font-size: 17.5px; }
+.card-title { font-size: 20px; }
+.card-summary { font-size: 16px; }
+.block { padding: 20px; }
+.block h2 { font-size: 21px; margin-bottom: 12px; }
+.block p, .bullets li, .steps li, .abbr dd { font-size: 16.5px; }
+/* 단별 설명 — 가장 오래 보는 곳이라 크게 */
+.round-hit { grid-template-columns: 50px minmax(0, 1fr) auto; gap: 14px; padding: 16px 15px; }
+.round-label { font-size: 17px; }
+.round-text { font-size: 17.5px; line-height: 1.68; }
+.round.is-current .round-hit { box-shadow: 0 0 0 3px var(--current-bd); }
+.round.is-current .round-text { font-weight: 800; }
+/* 영상 등 링크 버튼 */
+.linklist a { font-size: 16.5px; min-height: 54px; }
